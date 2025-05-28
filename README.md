@@ -1,5 +1,5 @@
 Windows SFX Installers for The Back Room's Windows Themes
 
-Download from the [Releases][RELEASES] page.
+Download from [GitLab][GITLAB_RELEASES].
 
-[RELEASES]: https://gitlab.com/the-back-room/Themes/-/releases
+[GITLAB_RELEASES]: https://gitlab.com/the-back-room/Themes/-/releases
